@@ -1,0 +1,50 @@
+html,body{
+    background-color: blueviolet;
+}
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 5vw;
+}
+form{
+    background-color: rgb(13, 125, 125);
+    border: solid 2px black;
+    border-radius: 20px;
+    padding:30px;
+    text-align: center;   
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 1vw;
+    max-width: 100%;
+}
+input{
+    border-radius: 10px;
+    background-color: aquamarine;
+    font-style: italic;
+    text-align: left;
+    width:200px;
+    height:30px;
+    margin-top: 20px;
+    font-size: 1vw;
+}
+input:hover{
+    font-weight: bold;
+}
+label{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1vw;
+}
+.submitss{
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+.submitss:hover{
+    background-color: yellow;
+    border: solid 2px red;
+    color:blue;
+    font-weight: bold;
+}
